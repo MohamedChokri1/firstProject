@@ -1,0 +1,51 @@
+body{  background-image: url("https://img.freepik.com/free-vector/blue-polygon-dark-background-social-template_53876-116080.jpg");
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    
+  }
+ 
+
+ #room {
+  width: 50%;
+  height: 100%;
+  margin:auto;
+    border:1px solid ;
+    
+    text-align:left;
+  }
+  
+  #room tr td  , #room tr th {
+    padding:1em;
+   
+    
+  }
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+      font-size: 40px;
+      color: rgb(244, 244, 225);
+      margin-left: 350px;
+    margin-right: auto;
+}
+button{
+  outline: none;
+    color: #1e1e1e;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1em;
+    padding-left: 3em;
+    padding-right: 3em;
+    border: 2px dashed #484848;
+    border-radius: 15px;
+    background-color: #8b8b8b;
+    box-shadow: 0 0 0 4px #949494,rgba(0, 0, 0, 0.5);
+    
+    
+}
+#imgur{
+  border-radius: 15%;
+}
+#room{
+  color: aliceblue;
+}
